@@ -16,15 +16,25 @@ Choose the Python 3.7 version for your operating system. If you are on a mac tha
 
 Then you just start the installer and follow all the default steps. If you are on a mac I would only install it on "This user" and not every user on the computer. I had some small issues with it when I did that and had to reinstall it (maybe not a problem for you but just a recommendation). 
 
-When you finished installing it you can open Jupyter Notebooks. If you don't have chrome already it is recommended to get it since it works best in chrome (but other new browsers that renThere are two ways to open Jupyter Notebooks. 
+When you finished installing it you can open Jupyter Notebooks. If you don't have chrome already it is recommended to get it since it works best in chrome (but other modern browsers that are not Internet Explorer/Edge). There are two ways to open Jupyter Notebooks. 
 
 1. Using the Anaconda Navigator
 
+Open Anaconda Navigator from the application menu. Then you should see the homescreen and one of the boxes contains "Jupyter Notebook". Press "Launch" and it will launch Jupyter Notebook. 
 
 2. Using the terminal
 
 Just open your terminal and type "jupyter notebook" and boom it should open up in Chrome. 
 
+### Using Jupyter Notebook
+
+When first launching Jupyter Notebook you are in a file-navigator. From here you can either create a new file or open an existing jupyter notebook. 
+
+There is of course ALOT to know about Jupyter Notebook since it is a very powerful tool. But one basic thing is that you can write either markdown or python code (you can write other stuff too but lets forget about it for now). 
+
+Most of the first notes will just contain markdown because we have still not studied any python so there is no code to write. Markdown is a common standard for formatting documents. It gives you full control over the formatting of a document by letting you write your formatting as simple "code/syntaxing". For example if you want to make a heading you just put a hashtagg infont of it like this: "# This would be a header"
+
+Full guide on markdown: https://guides.github.com/features/mastering-markdown/
 
 
 ## Using Github 
